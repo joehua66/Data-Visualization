@@ -1,0 +1,882 @@
+[
+    {
+      "description": "HARASSING COMMUNICATIONS",
+      "datetime": "6/24/2014 11:15 PM",
+      "location": [
+        42.343060293817736,
+        -83.02064787655652
+      ]
+    },
+    {
+      "description": "LARCENY - PERSONAL PROPERTY FROM VEHICLE",
+      "datetime": "6/24/2014 08:15 PM",
+      "location": [
+        42.33607605681727,
+        -83.05793091956167
+      ]
+    },
+    {
+      "description": "MARIJUANA -POSSESS",
+      "datetime": "6/24/2014 07:10 PM",
+      "location": [
+        42.34087610581758,
+        -83.01617622655586
+      ]
+    },
+    {
+      "description": "DANGEROUS DRUGS (OTHER)",
+      "datetime": "6/24/2014 07:10 PM",
+      "location": [
+        42.34087610581758,
+        -83.01617622655586
+      ]
+    },
+    {
+      "description": "LARCENY (OTHER)",
+      "datetime": "6/24/2014 07:00 PM",
+      "location": [
+        42.34032718981752,
+        -83.02424325155701
+      ]
+    },
+    {
+      "description": "FRAUD (OTHER)",
+      "datetime": "6/24/2014 06:34 PM",
+      "location": [
+        42.33902095681744,
+        -83.03662980355878
+      ]
+    },
+    {
+      "description": "VEHICLE THEFT",
+      "datetime": "6/24/2014 12:30 PM",
+      "location": [
+        42.332992006817086,
+        -83.03520137455854
+      ]
+    },
+    {
+      "description": "HEROIN -POSSESS",
+      "datetime": "6/24/2014 12:15 PM",
+      "location": [
+        42.32835352081681,
+        -83.05783817756172
+      ]
+    },
+    {
+      "description": "LARCENY (OTHER)",
+      "datetime": "6/24/2014 10:46 AM",
+      "location": [
+        42.33448211681714,
+        -83.04112447755939
+      ]
+    },
+    {
+      "description": "INTIMIDATION",
+      "datetime": "6/24/2014 09:30 AM",
+      "location": [
+        42.32914100381682,
+        -83.03675429155881
+      ]
+    },
+    {
+      "description": "LARCENY (OTHER)",
+      "datetime": "6/24/2014 08:10 AM",
+      "location": [
+        42.345142877817814,
+        -83.06578201256275
+      ]
+    },
+    {
+      "description": "CONCEALED WEAPONS - CARRYING CONCEALED (CCW)",
+      "datetime": "6/24/2014 12:45 AM",
+      "location": [
+        42.33676621981737,
+        -83.0262468015573
+      ]
+    },
+    {
+      "description": "DAMAGE TO PROPERTY - THROWING STONE, ETC, AT TRAIN OR MOTOR VEHICLE",
+      "datetime": "6/23/2014 11:00 PM",
+      "location": [
+        42.33396343981716,
+        -83.02429341455705
+      ]
+    },
+    {
+      "description": "LARCENY - PARTS AND ACCESSORIES FROM VEHICLE",
+      "datetime": "6/23/2014 11:00 PM",
+      "location": [
+        42.33396343981716,
+        -83.02429341455705
+      ]
+    },
+    {
+      "description": "DAMAGE TO PROPERTY - BUSINESS PROPERTY",
+      "datetime": "6/23/2014 10:45 PM",
+      "location": [
+        42.333231662817106,
+        -83.04153350155943
+      ]
+    },
+    {
+      "description": "CONCEALED WEAPONS - CARRYING CONCEALED (CCW)",
+      "datetime": "6/23/2014 10:05 PM",
+      "location": [
+        42.334074295817146,
+        -83.03476278855848
+      ]
+    },
+    {
+      "description": "LARCENY - FROM BUILDING (INCLUDES LIBRARY, OFFICE USED BY PUBLIC, ETC)",
+      "datetime": "6/23/2014 10:00 PM",
+      "location": [
+        42.332486708817065,
+        -83.04610821456012
+      ]
+    },
+    {
+      "description": "BURGLARY - BURGLARY - FORCED ENTRY - RESIDENCE",
+      "datetime": "6/23/2014 09:30 PM",
+      "location": [
+        42.335137522817234,
+        -83.07986369356479
+      ]
+    },
+    {
+      "description": "LARCENY - PERSONAL PROPERTY FROM VEHICLE",
+      "datetime": "6/23/2014 09:30 PM",
+      "location": [
+        42.34232834581762,
+        -83.03757166955887
+      ]
+    },
+    {
+      "description": "INTIMIDATION",
+      "datetime": "6/23/2014 09:00 PM",
+      "location": [
+        42.337395824817335,
+        -83.02425769555707
+      ]
+    },
+    {
+      "description": "CONCEALED WEAPONS - CARRYING CONCEALED (CCW)",
+      "datetime": "6/23/2014 09:00 PM",
+      "location": [
+        42.33155397181698,
+        -83.04844551756035
+      ]
+    },
+    {
+      "description": "CONCEALED WEAPONS - CARRYING CONCEALED (CCW)",
+      "datetime": "6/23/2014 08:30 PM",
+      "location": [
+        42.32869188781683,
+        -83.04463824355992
+      ]
+    },
+    {
+      "description": "MARIJUANA -POSSESS",
+      "datetime": "6/23/2014 08:10 PM",
+      "location": [
+        42.33387898381719,
+        -83.03237127155818
+      ]
+    },
+    {
+      "description": "CONCEALED WEAPONS - CARRYING CONCEALED (CCW)",
+      "datetime": "6/23/2014 08:10 PM",
+      "location": [
+        42.33387898381719,
+        -83.03237127155818
+      ]
+    },
+    {
+      "description": "DISORDERLY CONDUCT (OTHER)",
+      "datetime": "6/23/2014 08:10 PM",
+      "location": [
+        42.33387898381719,
+        -83.03237127155818
+      ]
+    },
+    {
+      "description": "INTIMIDATION",
+      "datetime": "6/23/2014 08:00 PM",
+      "location": [
+        42.326916930816715,
+        -83.04782136856036
+      ]
+    },
+    {
+      "description": "ASSAULT (OTHER)",
+      "datetime": "6/23/2014 07:30 PM",
+      "location": [
+        42.33944799981748,
+        -83.06671275656291
+      ]
+    },
+    {
+      "description": "POSSESS STOLEN VEHICLE",
+      "datetime": "6/23/2014 12:45 PM",
+      "location": [
+        42.344190018817805,
+        -83.00879808455493
+      ]
+    },
+    {
+      "description": "LARCENY - FROM BUILDING (INCLUDES LIBRARY, OFFICE USED BY PUBLIC, ETC)",
+      "datetime": "6/23/2014 10:15 AM",
+      "location": [
+        42.33144275381704,
+        -83.04866805956038
+      ]
+    },
+    {
+      "description": "AGG/FEL ASSAULT - FAMILY - SRONG ARM",
+      "datetime": "6/23/2014 09:45 AM",
+      "location": [
+        42.338696350817465,
+        -83.02976304555784
+      ]
+    },
+    {
+      "description": "VEHICLE THEFT",
+      "datetime": "6/23/2014 12:33 AM",
+      "location": [
+        42.34353542581777,
+        -83.07687996456434
+      ]
+    },
+    {
+      "description": "AGG/FEL ASSAULT - FAMILY - OTHER WEAPON",
+      "datetime": "6/23/2014 12:15 AM",
+      "location": [
+        42.343278758817696,
+        -83.02643267255729
+      ]
+    },
+    {
+      "description": "ASSAULT AND BATTERY/SIMPLE ASSAULT",
+      "datetime": "6/23/2014 12:00 AM",
+      "location": [
+        42.336378147817264,
+        -83.03627410055869
+      ]
+    },
+    {
+      "description": "VEHICLE THEFT",
+      "datetime": "6/22/2014 10:00 PM",
+      "location": [
+        42.331199784817,
+        -83.07959572456474
+      ]
+    },
+    {
+      "description": "DAMAGE TO PROPERTY - BUSINESS PROPERTY",
+      "datetime": "6/22/2014 09:30 PM",
+      "location": [
+        42.33236524381707,
+        -83.04872542456039
+      ]
+    },
+    {
+      "description": "VEHICLE THEFT",
+      "datetime": "6/22/2014 07:30 PM",
+      "location": [
+        42.34185434681757,
+        -83.0586764755618
+      ]
+    },
+    {
+      "description": "LARCENY - PERSONAL PROPERTY FROM VEHICLE",
+      "datetime": "6/22/2014 07:30 PM",
+      "location": [
+        42.33154663681696,
+        -83.03821934455897
+      ]
+    },
+    {
+      "description": "DAMAGE TO PROPERTY - BUSINESS PROPERTY",
+      "datetime": "6/22/2014 05:00 PM",
+      "location": [
+        42.33173584781701,
+        -83.04762193056027
+      ]
+    },
+    {
+      "description": "LARCENY - PERSONAL PROPERTY FROM VEHICLE",
+      "datetime": "6/22/2014 05:00 PM",
+      "location": [
+        42.33146948881703,
+        -83.07503454656418
+      ]
+    },
+    {
+      "description": "LARCENY - PERSONAL PROPERTY FROM VEHICLE",
+      "datetime": "6/22/2014 03:00 PM",
+      "location": [
+        42.33993495781756,
+        -83.0388418505591
+      ]
+    },
+    {
+      "description": "MOTOR VEHICLE AS STOLEN PROPERTY - UNAUTHORIZED USE (INCLUDES JOY RIDING)",
+      "datetime": "6/22/2014 04:00 AM",
+      "location": [
+        42.335572945817226,
+        -83.0408933965593
+      ]
+    },
+    {
+      "description": "DAMAGE TO PROPERTY - PRIVATE PROPERTY",
+      "datetime": "6/22/2014 02:00 AM",
+      "location": [
+        42.33468390081716,
+        -83.08410578856531
+      ]
+    },
+    {
+      "description": "LARCENY - PARTS AND ACCESSORIES FROM VEHICLE",
+      "datetime": "6/22/2014 01:00 AM",
+      "location": [
+        42.33256659981705,
+        -83.05811546856172
+      ]
+    },
+    {
+      "description": "ASSAULT (OTHER)",
+      "datetime": "6/22/2014 01:00 AM",
+      "location": [
+        42.33550462481721,
+        -83.04101325255941
+      ]
+    },
+    {
+      "description": "LARCENY (OTHER)",
+      "datetime": "6/22/2014 12:05 AM",
+      "location": [
+        42.32725754481668,
+        -83.04225344755955
+      ]
+    },
+    {
+      "description": "CONCEALED WEAPONS - CARRYING CONCEALED (CCW)",
+      "datetime": "6/21/2014 11:45 PM",
+      "location": [
+        42.330924596816914,
+        -83.04944006656049
+      ]
+    },
+    {
+      "description": "ROBBERY - STREET - GUN",
+      "datetime": "6/21/2014 11:30 PM",
+      "location": [
+        42.33069595781693,
+        -83.04970489156055
+      ]
+    },
+    {
+      "description": "LARCENY - PERSONAL PROPERTY FROM VEHICLE",
+      "datetime": "6/21/2014 11:30 PM",
+      "location": [
+        42.337321734817344,
+        -83.04623258356004
+      ]
+    },
+    {
+      "description": "DAMAGE TO PROPERTY - PRIVATE PROPERTY",
+      "datetime": "6/21/2014 11:20 PM",
+      "location": [
+        42.33129156081698,
+        -83.04315918855967
+      ]
+    },
+    {
+      "description": "LARCENY - PERSONAL PROPERTY FROM VEHICLE",
+      "datetime": "6/21/2014 11:20 PM",
+      "location": [
+        42.33129156081698,
+        -83.04315918855967
+      ]
+    },
+    {
+      "description": "CONCEALED WEAPONS - CARRYING CONCEALED (CCW)",
+      "datetime": "6/21/2014 11:15 PM",
+      "location": [
+        42.32941996281686,
+        -83.04519982656002
+      ]
+    },
+    {
+      "description": "CONCEALED WEAPONS - CARRYING CONCEALED (CCW)",
+      "datetime": "6/21/2014 10:45 PM",
+      "location": [
+        42.33083901281697,
+        -83.03971783555919
+      ]
+    },
+    {
+      "description": "CONCEALED WEAPONS - CARRYING CONCEALED (CCW)",
+      "datetime": "6/21/2014 10:45 PM",
+      "location": [
+        42.33083901281697,
+        -83.03971783555919
+      ]
+    },
+    {
+      "description": "LARCENY - FROM BUILDING (INCLUDES LIBRARY, OFFICE USED BY PUBLIC, ETC)",
+      "datetime": "6/21/2014 10:45 PM",
+      "location": [
+        42.334410023817156,
+        -83.04368864555977
+      ]
+    },
+    {
+      "description": "LARCENY - PERSONAL PROPERTY FROM VEHICLE",
+      "datetime": "6/21/2014 10:20 PM",
+      "location": [
+        42.33719836381739,
+        -83.04436310755987
+      ]
+    },
+    {
+      "description": "LARCENY - PURSE SNATCHING - NO FORCE",
+      "datetime": "6/21/2014 10:00 PM",
+      "location": [
+        42.33268813281707,
+        -83.02757900555746
+      ]
+    },
+    {
+      "description": "LARCENY - PERSONAL PROPERTY FROM VEHICLE",
+      "datetime": "6/21/2014 10:00 PM",
+      "location": [
+        42.332156864817,
+        -83.03877992555906
+      ]
+    },
+    {
+      "description": "VEHICLE THEFT",
+      "datetime": "6/21/2014 10:00 PM",
+      "location": [
+        42.331691691817014,
+        -83.04191577855948
+      ]
+    },
+    {
+      "description": "LARCENY (OTHER)",
+      "datetime": "6/21/2014 09:30 PM",
+      "location": [
+        42.331180763816974,
+        -83.03190243155805
+      ]
+    },
+    {
+      "description": "LARCENY - PERSONAL PROPERTY FROM VEHICLE",
+      "datetime": "6/21/2014 09:30 PM",
+      "location": [
+        42.3347647078172,
+        -83.04600578856004
+      ]
+    },
+    {
+      "description": "ASSAULT AND BATTERY/SIMPLE ASSAULT",
+      "datetime": "6/21/2014 08:35 PM",
+      "location": [
+        42.33338746581711,
+        -83.02995404555784
+      ]
+    },
+    {
+      "description": "HOMICIDE-FATAL SHOOTING",
+      "datetime": "6/21/2014 07:55 PM",
+      "location": [
+        42.33932689581749,
+        -83.02385634055697
+      ]
+    },
+    {
+      "description": "DAMAGE TO PROPERTY - PRIVATE PROPERTY",
+      "datetime": "6/21/2014 06:00 PM",
+      "location": [
+        42.33965385481749,
+        -83.01531499355578
+      ]
+    },
+    {
+      "description": "LARCENY (OTHER)",
+      "datetime": "6/21/2014 05:30 PM",
+      "location": [
+        42.3293238898169,
+        -83.05294330556102
+      ]
+    },
+    {
+      "description": "LARCENY (OTHER)",
+      "datetime": "6/21/2014 05:00 PM",
+      "location": [
+        42.326433111816655,
+        -83.04539321956001
+      ]
+    },
+    {
+      "description": "ASSAULT AND BATTERY/SIMPLE ASSAULT",
+      "datetime": "6/21/2014 04:15 PM",
+      "location": [
+        42.33133269681695,
+        -83.07644730556433
+      ]
+    },
+    {
+      "description": "DAMAGE TO PROPERTY - PRIVATE PROPERTY",
+      "datetime": "6/21/2014 03:00 PM",
+      "location": [
+        42.33944799981748,
+        -83.06671275656291
+      ]
+    },
+    {
+      "description": "POSSESSION OF FIREARM IN COMMISSION OF CRIME",
+      "datetime": "6/21/2014 09:45 AM",
+      "location": [
+        42.34186055981763,
+        -83.023622474557
+      ]
+    },
+    {
+      "description": "MARIJUANA -SELL",
+      "datetime": "6/21/2014 09:45 AM",
+      "location": [
+        42.34186055981763,
+        -83.023622474557
+      ]
+    },
+    {
+      "description": "COCAINE -SELL",
+      "datetime": "6/21/2014 09:40 AM",
+      "location": [
+        42.34187130081766,
+        -83.02359780155686
+      ]
+    },
+    {
+      "description": "CSC IST DEGREE -PENETRATION PENIS/VAGINA",
+      "datetime": "6/21/2014 03:00 AM",
+      "location": [
+        42.33503884681725,
+        -83.04240337355951
+      ]
+    },
+    {
+      "description": "DAMAGE TO PROPERTY - PRIVATE PROPERTY",
+      "datetime": "6/21/2014 02:00 AM",
+      "location": [
+        42.33473965781715,
+        -83.08390708056535
+      ]
+    },
+    {
+      "description": "DAMAGE TO PROPERTY - PRIVATE PROPERTY",
+      "datetime": "6/21/2014 02:00 AM",
+      "location": [
+        42.3281564418168,
+        -83.06862598456316
+      ]
+    },
+    {
+      "description": "ROBBERY - STREET - GUN",
+      "datetime": "6/21/2014 02:00 AM",
+      "location": [
+        42.3281564418168,
+        -83.06862598456316
+      ]
+    },
+    {
+      "description": "AGG/FEL ASSAULT - NON-FAMILY - OTHER WEAPON",
+      "datetime": "6/21/2014 01:30 AM",
+      "location": [
+        42.3351298378172,
+        -83.04627690356011
+      ]
+    },
+    {
+      "description": "LARCENY - PERSONAL PROPERTY FROM VEHICLE",
+      "datetime": "6/21/2014 01:30 AM",
+      "location": [
+        42.338112835817405,
+        -83.02260898455678
+      ]
+    },
+    {
+      "description": "AGG/FEL ASSAULT - NON-FAMILY - GUN",
+      "datetime": "6/20/2014 10:30 PM",
+      "location": [
+        42.31805850781613,
+        -83.08506868456547
+      ]
+    },
+    {
+      "description": "VEHICLE THEFT",
+      "datetime": "6/20/2014 09:58 PM",
+      "location": [
+        42.338112835817405,
+        -83.02260898455678
+      ]
+    },
+    {
+      "description": "LARCENY - PERSONAL PROPERTY FROM VEHICLE",
+      "datetime": "6/20/2014 09:30 PM",
+      "location": [
+        42.33146948881703,
+        -83.07503454656418
+      ]
+    },
+    {
+      "description": "VEHICLE THEFT",
+      "datetime": "6/20/2014 09:00 PM",
+      "location": [
+        42.339350682817496,
+        -83.01964283855645
+      ]
+    },
+    {
+      "description": "ASSAULT AND BATTERY/SIMPLE ASSAULT",
+      "datetime": "6/20/2014 08:50 PM",
+      "location": [
+        42.34418475081779,
+        -83.06242427956238
+      ]
+    },
+    {
+      "description": "ASSAULT AND BATTERY/SIMPLE ASSAULT",
+      "datetime": "6/20/2014 08:10 PM",
+      "location": [
+        42.338851278817444,
+        -83.08317720056525
+      ]
+    },
+    {
+      "description": "LARCENY - FROM BUILDING (INCLUDES LIBRARY, OFFICE USED BY PUBLIC, ETC)",
+      "datetime": "6/20/2014 08:00 PM",
+      "location": [
+        42.34055551981756,
+        -83.03213609755811
+      ]
+    },
+    {
+      "description": "LARCENY - FROM BUILDING (INCLUDES LIBRARY, OFFICE USED BY PUBLIC, ETC)",
+      "datetime": "6/20/2014 07:35 PM",
+      "location": [
+        42.332025405817056,
+        -83.04721592456022
+      ]
+    },
+    {
+      "description": "LARCENY - FROM BUILDING (INCLUDES LIBRARY, OFFICE USED BY PUBLIC, ETC)",
+      "datetime": "6/20/2014 04:30 PM",
+      "location": [
+        42.33069275181695,
+        -83.04764970156029
+      ]
+    },
+    {
+      "description": "FRAUD (OTHER)",
+      "datetime": "6/20/2014 04:00 PM",
+      "location": [
+        42.344565170817795,
+        -83.06526186456276
+      ]
+    },
+    {
+      "description": "ATTEMPTED ROBBERY -ARMED",
+      "datetime": "6/20/2014 04:00 PM",
+      "location": [
+        42.331432831817004,
+        -83.04087942755928
+      ]
+    },
+    {
+      "description": "VEHICLE THEFT",
+      "datetime": "6/20/2014 03:00 PM",
+      "location": [
+        42.342943895817676,
+        -83.0259394905573
+      ]
+    },
+    {
+      "description": "LARCENY - PERSONAL PROPERTY FROM VEHICLE",
+      "datetime": "6/20/2014 01:30 PM",
+      "location": [
+        42.32835352081681,
+        -83.05783817756172
+      ]
+    },
+    {
+      "description": "LARCENY - FROM BUILDING (INCLUDES LIBRARY, OFFICE USED BY PUBLIC, ETC)",
+      "datetime": "6/20/2014 10:30 AM",
+      "location": [
+        42.33321205781711,
+        -83.04816260156038
+      ]
+    },
+    {
+      "description": "VEHICLE THEFT",
+      "datetime": "6/20/2014 01:30 AM",
+      "location": [
+        42.33313923081711,
+        -83.05505403856131
+      ]
+    },
+    {
+      "description": "VEHICLE THEFT",
+      "datetime": "6/20/2014 01:00 AM",
+      "location": [
+        42.3424272658177,
+        -83.0760087045642
+      ]
+    },
+    {
+      "description": "VEHICLE THEFT",
+      "datetime": "6/19/2014 10:00 PM",
+      "location": [
+        42.342324902817666,
+        -83.07810485656452
+      ]
+    },
+    {
+      "description": "DAMAGE TO PROPERTY - PRIVATE PROPERTY",
+      "datetime": "6/19/2014 10:00 PM",
+      "location": [
+        42.328300919816776,
+        -83.06815588856313
+      ]
+    },
+    {
+      "description": "ASSAULT AND BATTERY/SIMPLE ASSAULT",
+      "datetime": "6/19/2014 09:45 PM",
+      "location": [
+        42.319834046816204,
+        -83.08581115056566
+      ]
+    },
+    {
+      "description": "LARCENY - PERSONAL PROPERTY FROM VEHICLE",
+      "datetime": "6/19/2014 09:15 PM",
+      "location": [
+        42.34360015681778,
+        -83.03864579155903
+      ]
+    },
+    {
+      "description": "TELEPHONE USED FOR HARASSMENT, THREATS",
+      "datetime": "6/19/2014 09:00 PM",
+      "location": [
+        42.33236742681704,
+        -83.03656830255872
+      ]
+    },
+    {
+      "description": "LARCENY - PERSONAL PROPERTY FROM VEHICLE",
+      "datetime": "6/19/2014 08:30 PM",
+      "location": [
+        42.334660712817204,
+        -83.04545515055999
+      ]
+    },
+    {
+      "description": "AGG/FEL ASSAULT - NON-FAMILY - OTHER WEAPON",
+      "datetime": "6/19/2014 08:15 PM",
+      "location": [
+        42.34332141381771,
+        -83.06455323456267
+      ]
+    },
+    {
+      "description": "LARCENY - PARTS AND ACCESSORIES FROM VEHICLE",
+      "datetime": "6/19/2014 08:00 PM",
+      "location": [
+        42.3335633098171,
+        -83.04305764155966
+      ]
+    },
+    {
+      "description": "BURGLARY - BURGLARY - FORCED ENTRY - NON-RESIDENCE",
+      "datetime": "6/19/2014 08:00 PM",
+      "location": [
+        42.3335633098171,
+        -83.04305764155966
+      ]
+    },
+    {
+      "description": "LARCENY (OTHER)",
+      "datetime": "6/19/2014 06:50 PM",
+      "location": [
+        42.33236742681704,
+        -83.03656830255872
+      ]
+    },
+    {
+      "description": "RETAIL FRAUD, THEFT 3RD DEGREE",
+      "datetime": "6/19/2014 03:38 PM",
+      "location": [
+        42.34170050481766,
+        -83.01423590255564
+      ]
+    },
+    {
+      "description": "VEHICLE THEFT",
+      "datetime": "6/19/2014 02:05 PM",
+      "location": [
+        42.328647732816826,
+        -83.06270564356237
+      ]
+    },
+    {
+      "description": "LARCENY (OTHER)",
+      "datetime": "6/19/2014 01:15 PM",
+      "location": [
+        42.333748382817106,
+        -83.04976139856059
+      ]
+    },
+    {
+      "description": "LARCENY - PERSONAL PROPERTY FROM VEHICLE",
+      "datetime": "6/19/2014 01:00 PM",
+      "location": [
+        42.331524680817026,
+        -83.0651700655627
+      ]
+    },
+    {
+      "description": "VEHICLE THEFT",
+      "datetime": "6/19/2014 09:30 AM",
+      "location": [
+        42.336255324817316,
+        -83.0433702205597
+      ]
+    },
+    {
+      "description": "LARCENY - PARTS AND ACCESSORIES FROM VEHICLE",
+      "datetime": "6/19/2014 08:00 AM",
+      "location": [
+        42.33066269381695,
+        -83.04471489255984
+      ]
+    },
+    {
+      "description": "BURGLARY -OTHER FORCED ENTRY",
+      "datetime": "6/19/2014 08:00 AM",
+      "location": [
+        42.33066269381695,
+        -83.04471489255984
+      ]
+    },
+    {
+      "description": "LARCENY - PARTS AND ACCESSORIES FROM VEHICLE",
+      "datetime": "6/19/2014 02:05 AM",
+      "location": [
+        42.331929991817056,
+        -83.06417845356262
+      ]
+    }
+  ]

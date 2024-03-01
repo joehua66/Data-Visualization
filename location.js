@@ -1,8 +1,8 @@
 class Location{
     constructor(loaction){
-        //this.id= stations.id
-        this.x= map(location[0],minLng,maxLng,0,width)
-        this.y= map(location[1],minLat,maxLat,height,0)
+        
+        this.x= map(data.crimes.location[0],minLng,maxLng,0,width)
+        this.y= map(data.crimes.location[1],minLat,maxLat,height,0)
     }
 
     display(){

@@ -34,7 +34,6 @@ console.log(maxLat,maxLng,minLat,minLng)
 
 function draw(){
     background(220)
-   
 
     crimes.forEach(s =>{
     s.display();
